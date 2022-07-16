@@ -8,7 +8,7 @@ I've been learning to code.
 
 * 🌍  I'm based in virginia
 * ✉️  You can contact me at [rofikre@yahoo.com](mailto:rofikre@yahoo.com)
-* 🧠  I'm learning SharePoint Framework
+* 🧠  I'm currently learning SharePoint Framework
 
 ### Skills
 
