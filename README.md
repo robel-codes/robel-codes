@@ -13,6 +13,9 @@ I've been learning to code.
 
 ### Skills
 
+<p>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=robel-codes&count_private=true&show_icons=true&include_all_commits=true)
+ <p>
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
@@ -29,6 +32,8 @@ I've been learning to code.
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+  </p>
+</p>
 
 ### Socials
 
@@ -38,5 +43,4 @@ I've been learning to code.
 
 <b>My GitHub Stats</b>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=robel-codes&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robel-codes&hide=TeX&layout=compact)
