@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/robel-codes/)](https://github.com/robel-codes/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robel-f-gebremeskel/)](https://www.linkedin.com/in/robel-f-gebremeskel)
 [![Yahoo Badge](https://img.shields.io/badge/-Yahoo-d14836?style=flat-square&logo=Yahoo&logoColor=blueviolet&link=mailto:rofikre@yahoo.com)](mailto:rofikre@yahoo.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-03a57a?style=flat-square&labelColor=000000&logo=web&link=https://robelgebremeskel.web.app/)](https://robelgebremeskel.web.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-03a57a?style=flat-square&labelColor=000000&logo=internet&link=https://robelgebremeskel.web.app/)](https://robelgebremeskel.web.app/)
 
 I've been learning to code.
 
@@ -35,11 +35,6 @@ I've been learning to code.
   </p>
 </p>
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/robel-codes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/robel-codes/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/robel-f-gebremeskel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
 
 
 
