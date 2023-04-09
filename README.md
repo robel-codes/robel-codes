@@ -4,8 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/robel-codes/)](https://github.com/robel-codes/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robel-f-gebremeskel/)](https://www.linkedin.com/in/robel-f-gebremeskel)
-[![Yahoo Badge](https://img.shields.io/badge/-Yahoo-d14836?style=flat-square&logo=Gmail&logoColor=blueviolet&link=mailto:rofikre@yahoo.com)](mailto:rofikre@yahoo.com)
-[![Portfolio](https://img.shields.io/badge/-@portfolio-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://robelgebremeskel.web.app/)]([https://medium.com/@aemmadi](https://robelgebremeskel.web.app/))
+[![Yahoo Badge](https://img.shields.io/badge/-Yahoo-d14836?style=flat-square&logo=Yahoo&logoColor=blueviolet&link=mailto:rofikre@yahoo.com)](mailto:rofikre@yahoo.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-03a57a?style=flat-square&labelColor=000000&logo=web&link=https://robelgebremeskel.web.app/)](https://robelgebremeskel.web.app/)
 
 I've been learning to code.
 
