@@ -1,8 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Robel Gebremeskel
 =========================================================================================================================================
 
-Full Stack Developer
---------------------
+### 📬 Find me at
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/robel-codes/)](https://github.com/robel-codes/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robel-f-gebremeskel/)](https://www.linkedin.com/in/robel-f-gebremeskel)
+[![Yahoo Badge](https://img.shields.io/badge/-Yahoo-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.rofikre@yahoo.com)](mailto:defcon.sentinal95@gmail.com)
 
 I've been learning to code.
 
@@ -12,7 +14,7 @@ I've been learning to code.
 * 🧠  I'm learning SharePoint Framework
 
 <p>
-<h3>My GitHub Stats</h3>
+<h4>My GitHub Stats</h4>
  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=robel-codes&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
  <p>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
