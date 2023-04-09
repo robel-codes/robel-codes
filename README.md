@@ -14,7 +14,7 @@ I've been learning to code.
 ### Skills
 
 <p>
-![Github Stats](https://github-readme-stats.vercel.app/api?username=robel-codes&count_private=true&show_icons=true&include_all_commits=true)
+ <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=robel-codes&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
  <p>
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
