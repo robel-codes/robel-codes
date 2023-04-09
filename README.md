@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/robel-codes/)](https://github.com/robel-codes/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robel-f-gebremeskel/)](https://www.linkedin.com/in/robel-f-gebremeskel)
-[![Yahoo Badge](https://img.shields.io/badge/-Yahoo-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.rofikre@yahoo.com)](mailto:defcon.sentinal95@gmail.com)
+[![Yahoo Badge](https://img.shields.io/badge/-Yahoo-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rofikre@yahoo.com)](mailto:rofikre@yahoo.com)
 
 I've been learning to code.
 
